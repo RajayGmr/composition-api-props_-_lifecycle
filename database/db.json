@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "title": "Post title 1",
+      "id": 1,
+      "body": "Lorem Ipsum"
+    },
+    {
+      "title": "Post title 2",
+      "id": 2,
+      "body": "Lorem Ipsum"
+    },
+    {
+      "title": "Post title 3",
+      "id": 3,
+      "body": "Lorem Ipsum"
+    },
+    {
+      "title": "Post title 4",
+      "id": 4,
+      "body": "Lorem Ipsum"
+    },
+    {
+      "title": "Post title 5",
+      "id": 5,
+      "body": "Lorem Ipsum"
+    },
+    {
+      "title": "Rajay",
+      "body": "Rajay Bio",
+      "tags": [
+        "Css",
+        "html"
+      ],
+      "id": 6
+    }
+   
+  ]
+}
